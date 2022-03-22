@@ -1,0 +1,23 @@
+.titulos h1{
+
+    color: var(--light-green);
+
+}
+
+.titulos h3{
+
+    color: var(--black);
+    padding-right: 2em;
+
+}
+
+@media screen and (min-width: 992px){
+
+    .titulos h3{
+
+        color: var(--black);
+        padding-right: 15em;
+    
+    }
+
+}
