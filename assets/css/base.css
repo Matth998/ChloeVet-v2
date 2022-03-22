@@ -164,8 +164,7 @@
     width: 250px;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: 3em;
-    margin-right: 3em;
+    margin-left: 4em;
 
 }
 
@@ -262,6 +261,13 @@ footer {
     
     }
 
+    .margins{
+
+        margin-left: .2em;
+        margin-right: .2em;
+
+    }
+
     .video{
 
         width: 550px;
@@ -269,8 +275,6 @@ footer {
         margin-top: 1em;
         margin-bottom: 1em;
         margin-left: 30%;
-        margin-right: 30%;
-    
     }
 
 }

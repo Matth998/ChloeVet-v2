@@ -1,0 +1,38 @@
+.text-duvidas{
+
+    text-align: center;
+    margin-right: 2em;
+    font-size: 20px;
+
+}
+
+.text-duvidas a{
+
+    text-decoration: none;
+    color: var(--black);
+
+}
+
+.duvidas .titulos{
+
+    color: var(--blue);
+
+}
+
+.duvidas .subtitulos{
+
+    color: var(--black);
+    padding-left: 0;
+    font-size: 35px;
+
+}
+
+@media screen and (min-width: 992px){
+
+    .text-duvidas{
+
+        margin-right: 5em;
+    
+    }
+
+}
