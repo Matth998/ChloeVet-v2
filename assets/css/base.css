@@ -161,9 +161,11 @@
 
 .video{
 
+    width: 250px;
     margin-top: 1em;
     margin-bottom: 1em;
-    align-items: center;
+    margin-left: 3em;
+    margin-right: 3em;
 
 }
 
@@ -257,6 +259,17 @@ footer {
     
         padding-left: 7em;
         padding-right: 7em;
+    
+    }
+
+    .video{
+
+        width: 550px;
+        height: 315px;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        margin-left: 30%;
+        margin-right: 30%;
     
     }
 
